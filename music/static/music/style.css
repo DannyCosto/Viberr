@@ -1,0 +1,12 @@
+body{
+    background: white url("images/egg-shell.png")
+}
+
+.navbar {
+    border: none;
+    border-radius: 0;
+}
+
+.navbar-brand {
+    font-family: 'Satisfy', cursive;
+}
